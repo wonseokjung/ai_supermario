@@ -7,6 +7,8 @@
 
 
 1_sb_ppo_agent.py -> PPO를 사용하여 학습 
+
+
 8_sb_dqn_supermari.py	- > DQN을 사용하여 학습 
 
 
