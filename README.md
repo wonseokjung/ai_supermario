@@ -2,7 +2,12 @@
 강화학습을 이용한 슈퍼마리오 만들기 튜토리얼 입니다. 
 
 
+아래의 설명을 읽으시고 환경을 설치하신 뒤, 
+제 깃헙을 클론하셔서 아래의 파이썬 코드를 실행하시면 됩니다. 
 
+
+1_sb_ppo_agent.py -> PPO를 사용하여 학습 
+8_sb_dqn_supermari.py	- > DQN을 사용하여 학습 
 
 
 
@@ -48,11 +53,6 @@ The preferred installation of `gym-super-mario-bros` is from `pip`:
 pip install gym-super-mario-bros
 ```
 
-
-# A.I SuperMario Tutorial 
-
-
-안녕하세요. 정원석 입니다.
 
 
 <img src="https://www.dropbox.com/s/9bxgpvp3ynvlelk/%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0%EB%81%9D.002.jpeg?raw=1">
