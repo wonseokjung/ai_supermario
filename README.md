@@ -27,7 +27,7 @@ https://colab.research.google.com/github/wonseokjung/ai_supermario/blob/master/4
 
 <img src="https://www.dropbox.com/s/uhonvggdut4kmt2/Screenshot%202018-11-02%2009.30.46.png?raw=1">
 
-https://colab.research.google.com/github/wonseokjung/ai_supermario/blob/master/8_sb_dqn_supermari.py
+https://colab.research.google.com/github/wonseokjung/ai_supermario/blob/master/2_supermario_dqn.ipynb
 
 
 
