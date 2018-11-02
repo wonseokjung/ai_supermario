@@ -12,12 +12,22 @@
 8_sb_dqn_supermari.py	- > DQN을 사용하여 학습 
 
 
-또한 google colab을 사용하여,
+## 또한 google colab을 사용하여,
 
 DQN으로 슈퍼마리오, Pong 게임을 학습시킬수 있는 Jupyter notebook도 함께 넣어놨습니다. 
 
 아래의 링크를 통하여 다른 설치 없이 바로 Colab상에서 GPU를 사용하여 학습시키는 것이 가능합니다. 
 
+
+<img src="https://www.dropbox.com/s/n7ypkshytfrc53y/Screenshot%202018-11-02%2009.29.36.png?raw=1">
+
+
+https://colab.research.google.com/github/wonseokjung/ai_supermario/blob/master/4_pong_dqn%20(1).ipynb
+
+
+<img src="https://www.dropbox.com/s/uhonvggdut4kmt2/Screenshot%202018-11-02%2009.30.46.png?raw=1">
+
+https://colab.research.google.com/github/wonseokjung/ai_supermario/blob/master/8_sb_dqn_supermari.py
 
 
 
